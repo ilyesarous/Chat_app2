@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "155840366432",
+    "firebase_url": "https://messanger-6c9c9-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "messanger-6c9c9",
+    "storage_bucket": "messanger-6c9c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155840366432:android:386b8fb135b8036a0f8005",
+        "android_client_info": {
+          "package_name": "com.example.messanger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155840366432-go90g84d7igmjfmhke9thr0abme65pdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPfaVbW_ZXAmjTRh1P4Z9y-npt6RCqm6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155840366432-go90g84d7igmjfmhke9thr0abme65pdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
